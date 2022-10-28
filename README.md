@@ -31,7 +31,7 @@ npm start
 Post Data should be like 
 ```json
 {
-    'user':'<username>',
-    'age':<user-age>
+    "user":"<username>",
+    "age":<user-age>
 }
 ``` 
