@@ -32,6 +32,6 @@ Post Data should be like
 ```json
 {
     "user":"<username>",
-    "age":<user-age>
+    "age":"user-age"
 }
 ``` 
